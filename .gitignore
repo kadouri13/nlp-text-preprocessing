@@ -1,0 +1,6 @@
+# Ignore PDF slides and course materials
+*.pdf
+Chapter_2-Text_Preprocessing.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
